@@ -3,8 +3,7 @@
 ![image](https://raw.githubusercontent.com/ilahiamaan606/abrupt-celery-1805/main/frontend/src/assets/images/horizonHealthLogo.png)
 
 
-
-Horizon Health Hospital is one of the renowned and leading multispecialty hospitals comprising more than five topmost specialties.
+Horizon Health is an online platform created to streamline the procedure of arranging appointments with healthcare specialists within a hospital setting.
 
 # Deployment
 
